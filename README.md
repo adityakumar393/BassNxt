@@ -15,3 +15,5 @@ This project is a responsive clone of the basic Spotify UI. It provides an inter
 - **HTML5**: For structuring the web pages.
 - **CSS3**: For styling and ensuring responsiveness with media queries.
 - **JavaScript**: For implementing interactive features like playback controls and volume adjustments.
+
+- https://l1nq.com/bassnxtadityaspotifyuiclone
